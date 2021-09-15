@@ -7,8 +7,9 @@
 - https://www.keychron.com/pages/user-manual
 
 ## Features
-[![N|Solid](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K6_Quick_Start_Guide_01-1.jpg?v=1606803271)]
-[![N|Solid](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K6_Quick_Start_Guide_01-2.jpg?v=1606803301)]
+
+![N|Solid](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K6_Quick_Start_Guide_01-1.jpg?v=1606803271)
+![N|Solid](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K6_Quick_Start_Guide_01-2.jpg?v=1606803301)
 
 ## HotKeys Shortcut
 
